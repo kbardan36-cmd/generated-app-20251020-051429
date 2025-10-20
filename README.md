@@ -1,6 +1,6 @@
 # NexusAI
 A witty and powerful AI assistant inspired by JARVIS and The Hitchhiker's Guide to the Galaxy, designed for conversation, search, and content generation.
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/kbardan36-cmd/generated-app-20251020-051429)
 ## About The Project
 NexusAI is a sophisticated, witty, and highly capable AI assistant designed to be a user's central hub for information, creativity, and task execution. Inspired by the helpfulness of The Hitchhiker's Guide to the Galaxy and the advanced intelligence of JARVIS, NexusAI provides a seamless conversational experience.
 The application features a stunning, professional light-themed interface with a persistent sidebar for managing multiple conversations. At its core is an **advanced reasoning engine** that deconstructs user queries, formulates strategic plans, and performs internal self-correction to ensure responses are accurate, comprehensive, and reliable. The agent adapts its behavior based on conversational context, simulating a learning process to improve over time. Users can ask questions, get real-time information from the web and social media, and generate artifacts like code snippets and documents, all while interacting with an AI that prioritizes truth-seeking and intellectual rigor.
@@ -76,7 +76,7 @@ This project is designed for easy deployment to Cloudflare's global network.
     ```
     After deployment, Wrangler will provide you with the URL to your live application.
 Alternatively, you can deploy directly from your GitHub repository with a single click.
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/kbardan36-cmd/generated-app-20251020-051429)
 ## Project Structure
 -   `src/`: Contains all the frontend React application code.
     -   `components/`: Reusable UI components.
